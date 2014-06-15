@@ -12,7 +12,23 @@ $gcc -o calculator calculator.c
 
 Usage
 ----
+* Run
 ```
 $calculator
 ```
-
+* Set variables
+```
+>> A = 100 * 20
+```
+* View variables
+```
+>> val
+```
+* Clear variables
+```
+>> clear
+```
+* End calculator
+```
+>> end
+```
