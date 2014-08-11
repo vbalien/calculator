@@ -2,7 +2,7 @@
 #include <string.h>
 
 #define MAX_DIGIT   50
-#define NUM_SIZE   MAX_DIGIT+1
+#define NUM_SIZE   (MAX_DIGIT+1)
 #define VAR_MAX      10
 
 void printNumber(int num[NUM_SIZE]);
